@@ -1,9 +1,9 @@
 # Dairenin-Alan-n-ve-evresini-Hesaplayan-Program        
 Java ile yarı çapını kullanıcıdan aldığınız dairenin alanını ve çevresini hesaplayan programı yazın.         www.patika.dev
 
-import java.util.Scanner;
+    import java.util.Scanner;
 
-public class Main {
+    public class Main {
     public static void main(String[] args) {
 
        int r;
