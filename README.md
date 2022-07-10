@@ -1,5 +1,5 @@
-# Dairenin-Alan-n-ve-evresini-Hesaplayan-Program
-Java ile yarı çapını kullanıcıdan aldığınız dairenin alanını ve çevresini hesaplayan programı yazın.
+# Dairenin-Alan-n-ve-evresini-Hesaplayan-Program        
+Java ile yarı çapını kullanıcıdan aldığınız dairenin alanını ve çevresini hesaplayan programı yazın.         www.patika.dev
 
 import java.util.Scanner;
 
